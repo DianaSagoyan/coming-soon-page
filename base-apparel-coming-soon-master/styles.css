@@ -22,3 +22,11 @@ body{
     background-size: cover;
 }
 
+.we{
+    color: hsl(0, 36%, 70%);
+    font-weight: 300;
+}
+
+.paragraph{
+    color: hsl(0, 36%, 70%);
+}
