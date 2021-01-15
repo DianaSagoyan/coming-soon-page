@@ -50,7 +50,13 @@ line-height: 1.2;
 
 .paragraph{
     color: hsl(0, 36%, 70%);
-    width: 48%;
+    width: 62%;
     line-height: 1.5;
     padding-bottom: 5%;
+}
+
+.input{
+    border-radius: 50px;
+    padding: 12px;
+    width: 50%;
 }
