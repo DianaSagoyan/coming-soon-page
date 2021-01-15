@@ -13,18 +13,19 @@ body{
     padding-bottom: 12%;
 }
 
-h1{
+.heading{
 font-size: 60px;
 letter-spacing: 17px;
 text-transform: uppercase;
 padding-bottom: 3%;
 color: hsl(0, 6%, 24%);
+line-height: 1.2;
 }
 
 .desk-image{
-    width: 100%;
+    /* width: 100%; */
     height: 100%;
-    position: relative;
+    /* position: relative;                                                      */
     /* z-index: 1; */
 }
 
@@ -36,7 +37,7 @@ color: hsl(0, 6%, 24%);
     background-image: url(../base-apparel-coming-soon-master/images/bg-pattern-desktop.svg);
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+    /* position: relative; */
     padding-left: 15%;
     padding-bottom: 10%;
 }
@@ -44,7 +45,7 @@ color: hsl(0, 6%, 24%);
 .we{
     color: hsl(0, 36%, 70%);
     font-weight: 300;
-    display: block;
+    display: inline;
 }
 
 .paragraph{
