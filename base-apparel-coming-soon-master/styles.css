@@ -57,7 +57,10 @@ line-height: 1.2;
 
 .input{
     border-radius: 50px;
-    border-color: gray;
+    border-color:  hsl(0, 1%, 57%);
+    color: hsl(0, 1%, 57%);
+    border-width: 1.5px;
+    border-style: solid;
     padding: 12px;
     width: 60%;
 }
