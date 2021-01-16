@@ -61,7 +61,8 @@ line-height: 1.2;
     color: hsl(0, 1%, 57%);
     border-width: 1.5px;
     border-style: solid;
-    padding: 12px;
+    border-right: none;
+    padding: 16px 15px 9px 25px;
     width: 60%;
 }
 
@@ -70,5 +71,6 @@ line-height: 1.2;
     width: 15%;
     padding: 10px;
     border: none;
+    margin-left: -100px;
     border-radius: 50px;
 }
