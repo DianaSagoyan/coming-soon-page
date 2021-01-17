@@ -96,4 +96,19 @@ line-height: 1.2;
     .container{
         display: none;
     }
+
+    .logo{
+        display: block;
+        padding-left: 8%;
+    }
+
+    .mob-image{
+        width: 100%;
+        padding-bottom: 20%;
+    }
+
+    .text-section{
+        text-align: center;
+        margin-left: 0;
+    }
 }
