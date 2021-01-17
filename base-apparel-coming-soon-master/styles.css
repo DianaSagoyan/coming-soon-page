@@ -67,7 +67,7 @@ line-height: 1.2;
 }
 
 ::placeholder{
-    color: #eff7e1;
+    color: #cfdac8;
 }
 
 .btn{
@@ -82,4 +82,18 @@ line-height: 1.2;
 .btn:hover{
     cursor: pointer;
     background-image: linear-gradient(135deg, #f0c8c8, #f7b7b7);
+}
+
+.mobile-hidden{
+    display: none;
+}
+
+@media screen and (max-width: 600px){
+    .mobile-hidden{
+        display: inline;
+    }
+
+    .container{
+        display: none;
+    }
 }
